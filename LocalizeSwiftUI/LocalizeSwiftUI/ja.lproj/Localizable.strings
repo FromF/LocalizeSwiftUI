@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  LocalizeSwiftUI
+
+  Created by 藤 治仁 on 2020/09/12.
+  Copyright © 2020 FromF.github.com. All rights reserved.
+*/
+
+"hello" = "Hello";
